@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424128681043",
+    "project_id": "the-wardrobe-fashion",
+    "storage_bucket": "the-wardrobe-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424128681043:android:a70c1ef942772173c9a2a6",
+        "android_client_info": {
+          "package_name": "com.teamvoid.thewardrobefashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424128681043-p9ubb7enbnd7lra7nul94q4er46phshr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZWoqNZY78QmeXoEIZjKqks6MEPVEQew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424128681043-p9ubb7enbnd7lra7nul94q4er46phshr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
